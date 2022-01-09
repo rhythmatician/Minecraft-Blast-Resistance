@@ -1,4 +1,4 @@
-#READ ME
+# READ ME
 
 This was just a short little project, basically pivoting data that needed to be concatenated rather than summed or counted.  I also counted it, compiled all of this in a .csv and then used Tableau online to visualize it.  That workbook view is embeded in embed.html, and the workbook can be downloaded directly.
 
